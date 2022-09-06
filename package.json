@@ -1,0 +1,27 @@
+{
+    "name": "@weekfox/react-native-weekfox-server",
+    "version": "1.0.0",
+    "description": "this is designed for weekfox server",
+    "homepage": "https://github.com/weekfox/react-native-weekfox-server",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-weekfox-server",
+      "weekfox/react-native-weekfox-server"
+    ],
+    "author": {
+      "name": "weekfox",
+      "email": "weekfox@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/weekfox/react-native-weekfox-server.git"
+    },
+    "peerDependencies": {
+      "react-native": ">=0.64.0"
+    }
+  }
+  
